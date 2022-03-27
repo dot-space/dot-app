@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">dotspace</string>
+    <string name="app_name">WE++</string>
     <string name="title_home">Home</string>
     <string name="title_about_us">About Us</string>
     <string name="title_contact">Contact</string>
@@ -10,7 +10,8 @@
     <string name="title_notifications">Notifications</string>
     <string name="get_directions"><a href="https://maps.app.goo.gl/tSX1F3kdAaSogycA8">Get Directions!</a></string>
     <string name="email">dakshgehlot30@gmail.com</string>
-    <string name="ws_address">.DoTspace\n
+    <string name="ws_address">
+        Electronics Workshop\n
     B-Wing 2nd Floor\n
     Academic Wing\n
     Mukesh Patel Technology Park\n
@@ -18,10 +19,10 @@
     Shirpur, Maharashtra 425405
 </string>
     <string name="dot_about_us">
-        .DoT is a place for people to learn the integral concepts of programming by real life
+        We\'re building this new community with the aim of providing a place for people to learn the concepts of programming by real life
         practical applications. We believe that doing projects is central to the idea of learning
         to code. Getting handy with new concepts is incomplete without actually using them in
-        live scenarios. And this is where .DoT comes in.\n\nIn short, we do cool stuff
+        live scenarios. And this is where we come in.\n\nIn short, we do cool stuff
         here.\n\nFor further queries, feel free to contact us or refer to the FAQs:
     </string>
     <string name="faqs">FAQs</string>

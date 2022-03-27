@@ -50,6 +50,7 @@ class ContactUsFragment : Fragment() {
         binding.discordConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.linkedinConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.twitterConnect.setOnClickListener { goToUrl("https://www.google.com/") }
+        binding.wwwConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.mapImageview.setOnClickListener { goToUrl("https://maps.app.goo.gl/tSX1F3kdAaSogycA8") }
         binding.gmailConnect.setOnClickListener { sendMail() }
 
