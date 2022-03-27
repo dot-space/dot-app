@@ -11,4 +11,8 @@
         <item name="colorPrimaryVariant">@color/blue_secondary</item>
         <item name="colorOnPrimary">@color/white</item>
     </style>
+
+    <style name="RoundedBorder">
+        <item name="cornerSize">25%</item>
+    </style>
 </resources>

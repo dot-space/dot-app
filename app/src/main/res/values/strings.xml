@@ -10,8 +10,7 @@
     <string name="title_notifications">Notifications</string>
     <string name="get_directions"><a href="https://maps.app.goo.gl/tSX1F3kdAaSogycA8">Get Directions!</a></string>
     <string name="email">dakshgehlot30@gmail.com</string>
-    <string name="ws_address">Our Den:\n
-        \.DoTspace\n
+    <string name="ws_address">.DoTspace\n
     B-Wing 2nd Floor\n
     Academic Wing\n
     Mukesh Patel Technology Park\n
@@ -23,7 +22,7 @@
         practical applications. We believe that doing projects is central to the idea of learning
         to code. Getting handy with new concepts is incomplete without actually using them in
         live scenarios. And this is where .DoT comes in.\n\nIn short, we do cool stuff
-        here.\n\nFor further queries, please refer to the FAQs:
+        here.\n\nFor further queries, feel free to contact us or refer to the FAQs:
     </string>
     <string name="faqs">FAQs</string>
     <string name="title_activity_events">EventsActivity</string>
@@ -33,7 +32,12 @@
     <string name="contact_us">Contact Us</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="dot_exhibition">.DoT Exhibition</string>
+    <string name="dot_exhibition">Monday, March 28th\nto Thursday, April 1</string>
     <string name="upcoming">Upcoming</string>
     <string name="past">Past</string>
+    <string name="rsvp">RSVP</string>
+    <string name="rsvped">RSVP-ed!</string>
+    <string name="expo">EXPO</string>
+    <string name="no_past_events">NO PAST EVENTS</string>
+    <string name="our_den">Our Den:</string>
 </resources>
