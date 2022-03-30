@@ -16,7 +16,8 @@
     Academic Wing\n
     Mukesh Patel Technology Park\n
     Babulde, Near Tapi Bridge\n
-    Shirpur, Maharashtra 425405
+    Shirpur, Maharashtra 425405\n\n
+        Join the community:
 </string>
     <string name="dot_about_us">
         We\'re building this new community with the aim of providing a place for people to learn the concepts of programming by real life
@@ -41,4 +42,5 @@
     <string name="expo">EXPO</string>
     <string name="no_past_events">NO PAST EVENTS</string>
     <string name="our_den">Our Den:</string>
+    <string name="click_here">Click here!</string>
 </resources>

@@ -44,7 +44,7 @@ class ContactUsFragment : Fragment() {
         _binding = FragmentContactUsBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        binding.githubConnect.setOnClickListener { goToUrl("https://github.com/dot-space") }
+        binding.githubConnect.setOnClickListener { goToUrl("https://github.com/cmulay") }
         binding.instagramConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.facebookConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.discordConnect.setOnClickListener { goToUrl("https://www.google.com/") }
@@ -52,6 +52,7 @@ class ContactUsFragment : Fragment() {
         binding.twitterConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.wwwConnect.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.mapImageview.setOnClickListener { goToUrl("https://maps.app.goo.gl/tSX1F3kdAaSogycA8") }
+        binding.joinButton.setOnClickListener { goToUrl("https://www.google.com/") }
         binding.gmailConnect.setOnClickListener { sendMail() }
 
 //        val textView: TextView = binding.textNotifications
